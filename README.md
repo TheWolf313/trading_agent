@@ -1,5 +1,5 @@
 # trading_agent
-Gold Trading Agent (Offline ML-Based Signal Engine)
+Gold Trading Agent (ML-Based Signal Engine)
 
 Overview
 This project implements a simple machine learning–based trading agent for Gold Futures using historical daily price data.
